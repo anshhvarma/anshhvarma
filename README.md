@@ -28,7 +28,7 @@
 
 <img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Dynammo&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Dynammo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshhvarma&label=Profile%20views&color=0e75b6&style=flat" alt="anshhvarma" /> </p>
 
 - 🔭 I’m currently working on [Technical Vidya](https://github.com)
 
@@ -57,8 +57,8 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
 <br><br><br><br>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Dynammo&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="Dev-Dynammo" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Dynammo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="Dev-Dynammo's Github Stats">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshhvarma&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshhvarma&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" alt="anshhvarma's Github Stats">
 
 <br>
 
@@ -66,7 +66,7 @@
 
   <br>
 
- ![Dev-Dynammo's GitHub | Stats](https://stats.quine.sh/anshhvarma/github?theme=dark)
+ ![anshhvarma's GitHub | Stats](https://stats.quine.sh/anshhvarma/github?theme=dark)
 
  [![An image of @devxinnovate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devxinnovate)](https://holopin.io/@devxinnovate)
 
