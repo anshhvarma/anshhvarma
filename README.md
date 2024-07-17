@@ -44,12 +44,12 @@
 
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next" />
   </a>
 </p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github" />
   </a>
 </p>
 
@@ -65,8 +65,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anshhvarma&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
   <br>
-
- ![anshhvarma's GitHub | Stats](https://stats.quine.sh/anshhvarma/github?theme=dark)
 
  [![An image of @devxinnovate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devxinnovate)](https://holopin.io/@devxinnovate)
 
