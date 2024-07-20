@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/anshhvarma/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UCF1Hnkm12lN265W6dB8aL7g"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/channel/UCF1Hnkm12lN265W6dB8aL7g" /><br>
+<br>
 
   
    <a href="mailto:anshvarma83691@gmail.com">
