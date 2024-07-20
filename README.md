@@ -13,10 +13,7 @@
 <a href="https://www.linkedin.com/in/anshhvarma/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
-
-  
-   <a href="mailto:anshvarma83691@gmail.com">
+<a href="mailto:anshvarma83691@gmail.com">
     <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
   </a>
  
